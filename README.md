@@ -1,6 +1,6 @@
 # Farmako 🌾
 
-**Farmako** is a platform developed during a 24-hour hackathon to connect farmers and wholesalers, empowering them with tools for fair pricing, weather insights, and seamless transactions. Built with a focus on collaboration and innovation, KrishiConnect aims to simplify agricultural operations and support farmers in making informed decisions.
+**Farmako** is a platform developed during a 24-hour hackathon to connect farmers and wholesalers, empowering them with tools for fair pricing, weather insights, and seamless transactions. Built with a focus on collaboration and innovation, Farmako aims to simplify agricultural operations and support farmers in making informed decisions.
 
 ---
 
@@ -20,7 +20,7 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js with Express.js
 - **Database & Authentication**: Firebase
-- **APIs**: 
+- **APIs**:
   - Weather API for real-time weather updates
 
 ---
@@ -37,9 +37,5 @@
    - Receive updates on available crops and market trends.
 5. **Secure Authentication**: Firebase ensures safe and secure login for all users.
 
----
-
-
-https://github.com/user-attachments/assets/a5227398-43fc-435a-97ce-5919657e1b5d
 
 
